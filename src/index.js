@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import YTSearch from 'youtube-api-search';
-const API_KEY = 'AIzaSyAl64Rv1uoWKUNjIYwjs-nb_5wBdYIsKTE';
+const API_KEY = '';
 import VideoDetail from './components/video_detail';
 
 
